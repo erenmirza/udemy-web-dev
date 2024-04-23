@@ -28,7 +28,7 @@
 
 ![01_Goal](./img/01_goal.png)
 
-See [03_intermediate_html\src\01_list_element_exercise.html](./src/01_list_element_exercise.html)
+See [01_list_element_exercise.html](./src/01_list_element_exercise.html)
 
 ### Nesting and Indentation
 
@@ -36,13 +36,21 @@ See [03_intermediate_html\src\01_list_element_exercise.html](./src/01_list_eleme
 
 ```html
 <!-- You can nest list items to create sub points -->
+<!-- Idententing stuff makes things easier to read -->
 <ul>
   <li>List Item 1</li>
   <li>List Item 2</li>
   <ul>
     <li>Sub Item 1</li>
+    <ol>
+      <li>Sub Sub Item 1</li>
+    </ol>
   </ul>
 </ul>
 ```
 
 #### Exercise
+
+![02_Goal](./img/02_goal.png)
+
+See [02_nesting_and_indentation.html](./src/02_nesting_and_indentation_exercise.html)
