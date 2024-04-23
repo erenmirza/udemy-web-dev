@@ -54,3 +54,54 @@ See [01_list_element_exercise.html](./src/01_list_element_exercise.html)
 ![02_Goal](./img/02_goal.png)
 
 See [02_nesting_and_indentation.html](./src/02_nesting_and_indentation_exercise.html)
+
+### The Anchor Element
+
+#### Example Usage
+
+```html
+<!-- Lets you create hyperlinks -->
+<!-- This is an inactive anchor element -->
+<a>This is a link</a>
+
+<!-- To make it active, we need to add an element attribute -->
+<!-- Element attributes follow this pattern -->
+<tag attribute="value">Content</tag>
+
+<!-- Multiple attributes can be added -->
+<tag attribute="value" attribute2="value">Content</tag>
+
+<!-- So the anchor element with an attribute -->
+<a href="https://www.google.com">Google Link</a>
+
+<!-- Global attributes can be applied to all elements -->
+```
+
+#### Exercise
+
+![03_Goal](./img/03_goal.png)
+
+See [03_anchor_exercise.html](./src/03_anchor_exercise.html)
+
+#### Links
+
+[The Anchor Element Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+
+### The Image Element
+
+#### Example Usage
+
+```html
+<!-- image tag is a self closing tag, or a void element -->
+<img src="url" alt="alternative text" />
+```
+
+#### Exercise
+
+![04_Goal](./img/04_goal.png)
+
+See [04_image_exercise.html](./src/04_image_exercise.html)
+
+#### Links
+
+[Random Picture Fetcher]("https://picsum.photos/)
