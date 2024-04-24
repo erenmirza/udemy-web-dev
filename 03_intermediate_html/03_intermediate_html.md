@@ -4,9 +4,9 @@
 
 ![HTML Tags](../02_introduction_to_html/img/all_html_tags.png)
 
-### The List Element
+## The List Element
 
-#### Example Usage
+### Example Usage
 
 ```html
 <!-- Unordered list items creates bullet points -->
@@ -24,15 +24,15 @@
 </ul>
 ```
 
-#### Exercise
+### Exercise
 
-![01_Goal](./img/01_goal.png)
+![01_goal](./img/01_goal.png)
 
 See [01_list_element_exercise.html](./src/01_list_element_exercise.html)
 
-### Nesting and Indentation
+## Nesting and Indentation
 
-#### Example Usage
+### Example Usage
 
 ```html
 <!-- You can nest list items to create sub points -->
@@ -49,15 +49,15 @@ See [01_list_element_exercise.html](./src/01_list_element_exercise.html)
 </ul>
 ```
 
-#### Exercise
+### Exercise
 
-![02_Goal](./img/02_goal.png)
+![02_goal](./img/02_goal.png)
 
 See [02_nesting_and_indentation.html](./src/02_nesting_and_indentation_exercise.html)
 
-### The Anchor Element
+## The Anchor Element
 
-#### Example Usage
+### Example Usage
 
 ```html
 <!-- Lets you create hyperlinks -->
@@ -77,31 +77,31 @@ See [02_nesting_and_indentation.html](./src/02_nesting_and_indentation_exercise.
 <!-- Global attributes can be applied to all elements -->
 ```
 
-#### Exercise
+### Exercise
 
-![03_Goal](./img/03_goal.png)
+![03_goal](./img/03_goal.png)
 
 See [03_anchor_exercise.html](./src/03_anchor_exercise.html)
 
-#### Links
+### Links
 
 [The Anchor Element Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 
-### The Image Element
+## The Image Element
 
-#### Example Usage
+### Example Usage
 
 ```html
 <!-- image tag is a self closing tag, or a void element -->
 <img src="url" alt="alternative text" />
 ```
 
-#### Exercise
+### Exercise
 
-![04_Goal](./img/04_goal.png)
+![04_goal](./img/04_goal.png)
 
 See [04_image_exercise.html](./src/04_image_exercise.html)
 
-#### Links
+### Links
 
 [Random Picture Fetcher]("https://picsum.photos/)

@@ -12,9 +12,9 @@
 
 ![Tags & Elements](./img/tags_vs_elements.png)
 
-### Section Heading Tags
+## Section Heading Tags
 
-#### Example Usage
+### Example Usage
 
 ```html
 <h1>Heading 1</h1>
@@ -25,40 +25,40 @@
 <h6>Heading 6</h6>
 ```
 
-#### Exercise
+### Exercise
 
-![01_Goal](./img/01_goal.png)
+![01_goal](./img/01_goal.png)
 
 See [01_section_heading_exercise.html](./src/01_section_heading_exercise.html)
 
-#### Links
+### Links
 
 [HTML Section Headings Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
-### Paragraph Tags
+## Paragraph Tags
 
-#### Example Usage
+### Example Usage
 
 ```html
 <p>Paragraph 1</p>
 <p>Paragraph 2 2</p>
 ```
 
-#### Exercise
+### Exercise
 
-![02_Goal](./img/02_goal.png)
+![02_goal](./img/02_goal.png)
 
 See [02_paragraph_exercise.html](./src/02_paragraph_exercise.html)
 
-#### Links
+### Links
 
 [Lorem Ipsum](www.lipsum.com)
 
-### Void Elements
+## Void Elements
 
 Void Elements are tags which use no elements.
 
-#### Example Usage
+### Example Usage
 
 ```html
 <!-- horizontal rule element-->
@@ -67,8 +67,8 @@ Void Elements are tags which use no elements.
 <br />
 ```
 
-#### Exercise
+### Exercise
 
-![03_Goal](./img/03_goal.png)
+![03_goal](./img/03_goal.png)
 
 See [03_void_elements.html](./src/03_void_elements_exercise.html)
