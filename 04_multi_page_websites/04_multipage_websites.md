@@ -102,3 +102,7 @@ See [03_portfolio.html](./src/03_portfolio/index.html)
 ### What is web hosting
 
 Web hosting is the process of making you rwebsite available on the internet. The files and data that create the website need to be a on a web server. The web server is connected to the internet, making it available 24/7. Viewing the website on your laptop, not connected to the internet is known as working locally.
+
+You can host websites through github.
+
+See my html portfolio [here](https://erenmirza.github.io/html-portfolio/)
