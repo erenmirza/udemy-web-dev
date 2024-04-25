@@ -38,4 +38,4 @@ See [adding_css](./src/5.1.%20Adding%20CSS/index.html)
 
 ## CSS Selectors
 
-![css_selections.jpg](./img/css_selectors.jpeg)
+[css_selections.pdf](./docs/css_selectors.pdf)
