@@ -1,0 +1,27 @@
+/* Write your code here: */
+
+/* Group Combination Example */
+h1,
+h2 {
+  color: blueviolet;
+}
+
+/* Child Combination Example */
+.box > p {
+  color: firebrick;
+}
+
+/* Descendant Combination Example */
+.box li {
+  color: blue;
+}
+
+/* Chaining Combination Example */
+li.done {
+  color: seagreen;
+}
+
+/* Combining Combinations Example */
+ul p.done {
+  font-size: 0.5rem;
+}

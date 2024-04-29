@@ -10,3 +10,4 @@
 - [04 Multipage Websites](./04_multi_page_websites/04_multipage_websites.md)
 - [05 Introduction to CSS](./05_introduction_to_css/05_introduction_to_css.md)
 - [06 CSS Properties](./06_css_properties/06_css_properties.md)
+- [07 Intermediate CSS](./07_intermediate_css/07_intermediate_css.md)
